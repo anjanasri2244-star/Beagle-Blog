@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.top-section {
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.image-section {
+    margin-bottom: 20px;
+}
+
+.image-section img {
+    width: 300px;
+    height: auto;
+}
+
+.trivia-section {
+    margin-top: 20px;
+}
